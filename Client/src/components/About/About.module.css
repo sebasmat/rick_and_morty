@@ -1,0 +1,6 @@
+.container{
+    background-image: url('./../../images/rick_and_morty_bg1.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: bottom;
+}
